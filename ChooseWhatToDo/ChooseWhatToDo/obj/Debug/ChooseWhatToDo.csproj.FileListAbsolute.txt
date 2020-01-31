@@ -1,0 +1,10 @@
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\bin\Debug\ChooseWhatToDo.exe.config
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\bin\Debug\ChooseWhatToDo.exe
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\bin\Debug\ChooseWhatToDo.pdb
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\obj\Debug\ChooseWhatToDo.csprojAssemblyReference.cache
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\obj\Debug\ChooseWhatToDo.exe
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\obj\Debug\ChooseWhatToDo.pdb
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\bin\Debug\ChooseWhatToDo.exe.manifest
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\bin\Debug\ChooseWhatToDo.application
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\obj\Debug\ChooseWhatToDo.exe.manifest
+E:\Repos\ChooseWhatToDo\ChooseWhatToDo\obj\Debug\ChooseWhatToDo.application
